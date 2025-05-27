@@ -1,4 +1,4 @@
-<h1><strong>🎮 Top 7 Games Hard</strong></h1>
+<h1><strong>🎮 Top 7 Platinas Mais Insanas</strong></h1>
 <p>Este projeto apresenta uma seleção dos 7 jogos mais desafiadores, destacando suas características, níveis de dificuldade e conquistas. Ideal para entusiastas de jogos hardcore e colecionadores de platinas!</p>
 
 <h1><strong>🕹️ Sobre o Projeto</strong></h1>
